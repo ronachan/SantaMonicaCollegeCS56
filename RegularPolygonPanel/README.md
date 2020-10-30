@@ -1,1 +1,1 @@
-
+**Program:** Create a subclass of JPanel named RegularPolygonPanel to paint an n-sided regular polygon. The class contains a property named numberOfSides which specifies the number of sides in the polygon. The polygon is centered at the center of the panel. The size of the polygon is proportional to the size of the panel. Create a pentagon, hexagon, heptagon, and octagon, nonagon, decagon from RegularPolygonPanel and display them in a frame.
